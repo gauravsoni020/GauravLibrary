@@ -1,0 +1,55 @@
+<resources>
+
+    <dimen name="scale_1dip">1.665px</dimen>
+    <dimen name="scale_4dip">6.66px</dimen>
+    <dimen name="scale_100dip">166.5px</dimen>
+    <dimen name="scale_110dip">184.14px</dimen>
+    <dimen name="scale_115dip">192.51px</dimen>
+    <dimen name="scale_120dip">200.88px</dimen>
+    <dimen name="scale_57_5dip">97.929px</dimen>
+    <dimen name="scale_2dip">3.3345px</dimen>
+    <dimen name="scale_3dip">5.00175px</dimen>
+    <dimen name="scale_5dip">8.33625px</dimen>
+    <dimen name="scale_8dip">13.338px</dimen>
+    <dimen name="scale_10dip">16.6725px</dimen>
+    <dimen name="scale_15dip">25.00875px</dimen>
+    <dimen name="scale_20dip">33.345px</dimen>
+    <dimen name="scale_23dip">39.18px</dimen>
+    <dimen name="scale_25dip">41.68px</dimen>
+    <dimen name="scale_30dip">50.0175px</dimen>
+    <dimen name="scale_35dip">58.35px</dimen>
+    <dimen name="scale_40dip">66.69px</dimen>
+    <dimen name="scale_45dip">75px</dimen>
+    <dimen name="scale_47dip">78.36px</dimen>
+    <dimen name="scale_50dip">83.3625px</dimen>
+    <dimen name="scale_55dip">92.07px</dimen>
+    <dimen name="scale_60dip">100px</dimen>
+    <dimen name="scale_70dip">116.70px</dimen>
+    <dimen name="scale_83dip">138px</dimen>
+    <dimen name="scale_145dip">241px</dimen>
+    <dimen name="scale_150dip">250px</dimen>
+    <dimen name="scale_200ddip">333px</dimen>
+    <dimen name="scale_250ddip">416px</dimen>
+    <dimen name="scale_270ddip">450.15px</dimen>
+    <dimen name="scale_400ddip">666px</dimen>
+    <dimen name="scale_500dip">833.6px</dimen>
+    <dimen name="scale_165dip">275px</dimen>
+    <dimen name="txt_15sp">19sp</dimen>
+    <dimen name="txt_18sp">22sp</dimen>
+    <dimen name="txt_20sp">24sp</dimen>
+    <dimen name="text_8">12sp</dimen>
+    <dimen name="text_10">14sp</dimen>
+    <dimen name="text_13">17sp</dimen>
+    <dimen name="text_15">19sp</dimen>
+    <dimen name="text_12">16sp</dimen>
+    <dimen name="text_16">20sp</dimen>
+    <dimen name="text_20">24sp</dimen>
+    <dimen name="text_18">22sp</dimen>
+    <dimen name="text_24">28sp</dimen>
+    <dimen name="text_14">18sp</dimen>
+    <dimen name="text_17">21sp</dimen>
+    <dimen name="menu_width">440dp</dimen>
+
+
+
+</resources>

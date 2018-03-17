@@ -1,0 +1,49 @@
+<resources>
+  <string name="app_name">Let\'s Eat</string>
+  <string name="no_str">No</string>
+  <string name="yes_str">Yes</string>
+
+  <string name="login">Login</string>
+
+
+  <!--  sample data -->
+  <string name="restaurantNameDemo">The Addison Restaurant view restaurant</string>
+  <string name="restaurantDetailsDemo">I want to share my experience celebrating my birthday twi year ago in tha tallest building in ireland.</string>
+
+
+  <string name="review">Review</string>
+  <string name="addComment">Add Comment</string>
+  <string name="reply">Reply</string>
+  <string name="reputation">Reputation</string>
+  <string name="votes">Votes</string>
+  <string name="comments">Comments</string>
+  <string name="resteem">Resteem</string>
+  <string name="done">Done</string>
+  <string name="ok">Ok</string>
+  <string name="cancel">Cancel</string>
+  <string name="username">Username</string>
+  <string name="password">Password</string>
+  <string name="signup">New User? SignUp</string>
+  <string name="profile">Profile</string>
+  <string name="add_post">Add Post</string>
+  <string name="logout">Logout</string>
+  <string name="restaurant_name">Restaurant Name</string>
+  <string name="title">Title</string>
+  <string name="tag">Tag</string>
+  <string name="write_your_story">Write your story...</string>
+  <string name="post">Post</string>
+  <string name="save_for_later">Save for later</string>
+  <string name="total_posts">Total Posts</string>
+  <string name="total_payouts">Total Payouts</string>
+
+  <string name="text_ham_button_text_normal">Ham Button Text(Normal)</string>
+  <string name="text_ham_button_text_highlighted">Ham Button Text(Highlighted)</string>
+  <string name="text_ham_button_text_unable">Ham Button Text(Unable)</string>
+  <string name="text_ham_button_sub_text_normal">Ham Button Sub Text(Normal)</string>
+  <string name="text_ham_button_sub_text_highlighted">Ham Button Sub Text(Highlighted)</string>
+  <string name="text_ham_button_sub_text_unable">Ham Button Sub Text(Unable)</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="be_the_first_to_review">Be the first to Review this Restaurant on Let\'sEat</string>
+</resources>

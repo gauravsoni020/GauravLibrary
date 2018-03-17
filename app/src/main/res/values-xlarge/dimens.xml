@@ -1,0 +1,57 @@
+<resources>
+
+    <dimen name="scale_1dip">2.22px</dimen>
+    <dimen name="scale_4dip">8.88px</dimen>
+    <dimen name="scale_100dip">222px</dimen>
+    <dimen name="scale_115dip">256.68px</dimen>
+    <dimen name="scale_58_5dip">0px</dimen>
+    <dimen name="scale_57_5dip">130.572px</dimen>
+    <dimen name="scale_110dip">245.52px</dimen>
+    <dimen name="scale_120dip">267.84px</dimen>
+    <dimen name="scale_2dip">4.446px</dimen>
+    <dimen name="scale_3dip">6.669px</dimen>
+    <dimen name="scale_5dip">11.115px</dimen>
+    <dimen name="scale_8dip">17.784px</dimen>
+    <dimen name="scale_10dip">22.23px</dimen>
+    <dimen name="scale_15dip">33.345px</dimen>
+    <dimen name="scale_20dip">44.46px</dimen>
+    <dimen name="scale_23dip">52.24px</dimen>
+    <dimen name="scale_25dip">55.57px</dimen>
+    <dimen name="scale_30dip">66.69px</dimen>
+    <dimen name="scale_35dip">77.80px</dimen>
+    <dimen name="scale_40dip">88.92px</dimen>
+    <dimen name="scale_45dip">100px</dimen>
+    <dimen name="scale_47dip">104.48px</dimen>
+    <dimen name="scale_50dip">111.15px</dimen>
+    <dimen name="scale_55dip">122.76px</dimen>
+    <dimen name="scale_60dip">133.38px</dimen>
+    <dimen name="scale_70dip">155.61px</dimen>
+    <dimen name="scale_83dip">184.5px</dimen>
+    <dimen name="scale_145dip">322px</dimen>
+    <dimen name="scale_150dip">333px</dimen>
+    <dimen name="scale_200ddip">444px</dimen>
+    <dimen name="scale_250ddip">555px</dimen>
+    <dimen name="scale_270ddip">600.2px</dimen>
+    <dimen name="scale_400ddip">888px</dimen>
+    <dimen name="scale_500dip">1111.5px</dimen>
+    <dimen name="scale_165dip">367px</dimen>
+    <dimen name="txt_15sp">19sp</dimen>
+    <dimen name="txt_18sp">22sp</dimen>
+    <dimen name="txt_20sp">24sp</dimen>
+    <dimen name="text_8">12sp</dimen>
+    <dimen name="text_10">14sp</dimen>
+    <dimen name="text_13">17sp</dimen>
+    <dimen name="text_15">19sp</dimen>
+    <dimen name="text_12">16sp</dimen>
+    <dimen name="text_16">20sp</dimen>
+    <dimen name="text_20">24sp</dimen>
+    <dimen name="text_18">22sp</dimen>
+    <dimen name="text_24">28sp</dimen>
+    <dimen name="text_14">18sp</dimen>
+    <dimen name="text_17">21sp</dimen>
+
+
+    <!-- <dimen name="navdrawer_width">440dp</dimen> -->
+
+
+</resources>
